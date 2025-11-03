@@ -1,0 +1,16 @@
+{
+  "term": "Fall 2025",
+  "term_start": "2025-08-25",
+  "last_day_add_drop": "2025-08-29T17:00:00-05:00",
+  "withdrawal_deadline": "2025-11-18T17:00:00-05:00",
+
+  "intents": {
+    "add": ["add class", "add a class", "register for class", "enroll in class", "sign up for class"],
+    "drop": ["drop a class", "withdraw from a class", "course withdrawal"],
+    "major": ["change major", "declare major", "switch major", "add major"],
+    "transcript": ["transcript", "official transcript", "send transcript"],
+    "graduation": ["apply to graduate", "graduation application"],
+    "appeal": ["grade appeal", "appeal grade", "final grade dispute"],
+    "ferpaform": ["ferpa form", "privacy release"]
+  }
+}
